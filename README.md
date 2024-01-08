@@ -1,5 +1,5 @@
 **Editor Delta Time**  
-A simple utility for deltaTime and frameCount simulation while in Edit mode.
+A simple utility for deltaTime and frameCount simulation while in Edit mode in Unity3d.
 
 **Installation**  
 Download the .zip then unpack it to Assets folder.
